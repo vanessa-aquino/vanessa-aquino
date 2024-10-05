@@ -10,5 +10,4 @@ Iniciando no mundo da programação, focando na área Front-End e me apaixonando
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/vanessaquiino/profilecard/?igsh=Y2tlNzEwYWo2ODhr)
 
 ### GitHub Stats
-
 ![GitHub stats](https://streak-stats.demolab.com?user=vanessa-aquino&theme=shadow-purple&locale=pt_BR)
