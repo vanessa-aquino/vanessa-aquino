@@ -2,18 +2,32 @@
 
 ### Sobre Mim 💜
 
-Desenvolvedora apaixonada por tecnologia e sempre em busca de evolução. Atuo principalmente com **Desenvolvimento .NET**, mas também tenho experiência em **Angular** e **TypeScript**. Tenho como objetivo criar soluções robustas e escaláveis, tanto para o **back-end** quanto para o **front-end**. Estou constantemente aprendendo novas ferramentas e tecnologias para aprimorar minhas habilidades.
+Sou uma desenvolvedora apaixonada por tecnologia e especializada no ecossistema .NET. Meu foco está em criar soluções robustas, escaláveis e bem estruturadas utilizando C#, ASP.NET, Entity Framework e todo o poder da plataforma .NET. Tenho um olhar atento para boas práticas, arquitetura limpa e performance no back-end, e estou sempre explorando os recursos mais modernos do .NET para evoluir como profissional. Meu objetivo é dominar esse universo e entregar sistemas de alta qualidade que façam a diferença.
 
 ### Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/vanessa-aquino-1b0b29289/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=FF00F6&color:FFF)](https://github.com/vanessa-aquino)
 
-### GitHub Stats
-
-![GitHub stats](https://streak-stats.demolab.com?user=vanessa-aquino&theme=shadow-purple&locale=pt_BR)
-
-### Tecnologias que utilizo
+### <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" /> Stacks </h3>
 - **Back-End**: C#, ASP.NET Core, SQL Server, APIs RESTful
 - **Front-End**: Angular, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
 - **Ferramentas**: Git, GitHub, Visual Studio, VS code, Azure
+
+### GitHub Stats
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessa-aquino&hide=html&layout=compact&theme=radical&bg_color=010409&title_color=570182&border_color=570182&text_color=747474"/>
+</a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img height="160em" width="400em" src="https://streak-stats.demolab.com?user=vanessa-aquino&theme=shadow-purple&locale=pt_BR"/>
+</a>
+</div>
+
+<br></br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+</picture>
