@@ -14,16 +14,6 @@ Desenvolvedora .NET com experiência no desenvolvimento e manutenção de sistem
 - **Front-End**: Angular, TypeScript, JavaScript, Avalonia
 - **Ferramentas**: Git, Docker, Azure
 
-### GitHub Stats
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessa-aquino&hide=html&layout=compact&theme=radical&bg_color=010409&title_color=570182&border_color=570182&text_color=747474"/>
-</a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height="160em" width="400em" src="https://streak-stats.demolab.com?user=vanessa-aquino&theme=shadow-purple&locale=pt_BR"/>
-</a>
-</div>
-
 <br></br>
 
 <picture>
