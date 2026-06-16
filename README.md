@@ -2,7 +2,7 @@
 
 ### Sobre Mim 💜
 
-Sou uma desenvolvedora apaixonada por tecnologia e especializada no ecossistema .NET. Meu foco está em criar soluções robustas, escaláveis e bem estruturadas utilizando C#, ASP.NET, Entity Framework e todo o poder da plataforma .NET. Tenho um olhar atento para boas práticas, arquitetura limpa e performance no back-end, e estou sempre explorando os recursos mais modernos do .NET para evoluir como profissional. Meu objetivo é dominar esse universo e entregar sistemas de alta qualidade que façam a diferença.
+Desenvolvedora .NET com experiência no desenvolvimento e manutenção de sistemas corporativos utilizados em ambiente de produção. Minha principal área de atuação é o desenvolvimento back-end utilizando C# e .NET, com foco em APIs REST, regras de negócio, integrações entre sistemas, Entity Framework Core e SQL Server. Também possuo experiência com versionamento utilizando Git, consumo de serviços externos e manutenção evolutiva de aplicações.
 
 ### Conecte-se comigo
 
@@ -10,9 +10,9 @@ Sou uma desenvolvedora apaixonada por tecnologia e especializada no ecossistema 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=FF00F6&color:FFF)](https://github.com/vanessa-aquino)
 
 ### <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" /> Stacks </h3>
-- **Back-End**: C#, ASP.NET Core, SQL Server, APIs RESTful
-- **Front-End**: Angular, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
-- **Ferramentas**: Git, GitHub, Visual Studio, VS code, Azure
+- **Back-End**: C#, ASP.NET Core, Entity Framework Core, SQL Server, APIs REST, 
+- **Front-End**: Angular, TypeScript, JavaScript, Avalonia
+- **Ferramentas**: Git, Docker, Azure
 
 ### GitHub Stats
 <div align="center">
